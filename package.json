@@ -1,7 +1,8 @@
 
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Rithvik",
+  "version": "1.0.0",
+  "author": "Jasmitha",
   "description": "A simple Node.js project for learning npm and package management",
   "keywords": ["freecodecamp", "nodejs", "npm", "backend"],
   "license": "MIT",
